@@ -1,0 +1,26 @@
+_repo: The-Coquette-or-The-History-of-Eliza-Wharton--13-A-Novel--Founded-on-Fact_12431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foster, Hannah Webster
+    alias: Lady of Massachusetts
+    birthdate: 1759
+    deathdate: 1840
+    gutenberg_agent_id: '4366'
+    url: http://www.gutenberg.org/2009/agents/4366
+    wikipedia: http://en.wikipedia.org/wiki/Hannah_Webster_Foster
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Whitman, Elizabeth, 1752-1788 -- Fiction'
+- GITenberg
+title: "The Coquette, or, The History of Eliza Wharton\r\nA Novel: Founded on Fact"
+url: http://www.gutenberg.org/ebooks/12431
